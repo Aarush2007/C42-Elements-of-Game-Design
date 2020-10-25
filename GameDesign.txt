@@ -1,0 +1,8 @@
+PC (playing character controlled by the player) Vs NPC (non-playing chars controlled by the computer)
+Game Story - This can either be explicit or it can be implicit (the player can interpret it on their own)
+Clearly Defined Goal - There has to be a clear goal for the player to know what will him/her the game.
+Rules of the game - rules are such that they help the game developer structure how he/she will create the game. Also it helps a player understand how the game needs to be played
+Balance — The game should not be too hard, nor too easy. If there are elements that are making the game hard, there should also be elements that are in favor of the player.
+Adaptivity — The game must become more challenging as game play progresses.
+Elements of Chance VS Elements of Skill — 1. Elements of Chance — These are those elements that are random and unpredictable in the game that make it more exciting . 2. ELements of Skill — are those elements that are bsased on the skill of the player and bring a sense of control and predictibility in the game.
+Feedback — any good game provides feedback to the player on how well they are performing.
